@@ -1,0 +1,5 @@
+Arduino
+Módulo WiFi ESP8266 ESP-01 [Shield Arduino]
+Cabos para Arduino [Jumpers Fêmea e Macho] 
+Resistores
+Diodo Emissor de Luz (LED)
