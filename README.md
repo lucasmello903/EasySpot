@@ -1,1 +1,1 @@
-# FreeSpott
+# FreSpot
